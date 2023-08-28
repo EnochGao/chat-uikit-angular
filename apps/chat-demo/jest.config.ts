@@ -1,9 +1,9 @@
 /* eslint-disable */
 export default {
-  displayName: 'chat-uikit-angular',
+  displayName: 'chat-demo',
   preset: '../../jest.preset.js',
   setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
-  coverageDirectory: '../../coverage/apps/chat-uikit-angular',
+  coverageDirectory: '../../coverage/apps/chat-demo',
   transform: {
     '^.+\\.(ts|mjs|js|html)$': [
       'jest-preset-angular',
